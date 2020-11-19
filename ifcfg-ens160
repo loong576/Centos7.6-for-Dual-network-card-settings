@@ -1,0 +1,9 @@
+TYPE=Ethernet
+BOOTPROTO=static
+NAME=eno2
+HWADDR=00:0c:29:c8:de:24
+DEVICE=ens160
+USERCTL=no
+ONBOOT=yes
+MASTER=bond0
+SLAVE=yes
